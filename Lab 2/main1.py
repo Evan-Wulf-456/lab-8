@@ -1,26 +1,3 @@
-
-
-# This is the main program
-# write your program here
-
-def load_stopwords(filename):
-    return stopwords # strip to remove whitespace/newline, lower(). Stopwords is set {}
-
-def load_words(filename, stopwords):
-    """Opens the filename and read """
-
-
-    # read file to lower()
-
-    # str.maketrans(,,) to remove any punctations 
-    # text.translate()
-
-    # split 
-
-    # filter to remove stopwords 
-
-    return filter # List
-
 def term_frequency(words): # Magid 
 
     counts = {}
